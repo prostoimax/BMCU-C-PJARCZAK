@@ -2,6 +2,13 @@
 
 This BMCU firmware has been tested and verified with the latest Bambu Lab A1 firmware.
 
+> [!WARNING]
+> Bambu Lab is limiting local BMCU interoperability through firmware updates.
+>
+> About how printer updates remove functions that were available at purchase:
+> [BMCU vs firmware locks](./bmcu-vs-firmware-locks.md)
+
+
 IMPORTANT:
 The printer must be configured as AMS, not AMS Lite.
 Using AMS Lite will cause incompatibility issues.
